@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+spaces-management
+# Spaces Management
 
-> Slugline
+> Spaces Management manages board space properties, effects, and interactions.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
