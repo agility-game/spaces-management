@@ -10,6 +10,7 @@ spaces-management
 - [Hosts](./HOSTS.md)
 - [Images](./IMAGES.md)
 - [Nx](./NX.md)
+- [Patterns](./PATTERNS.md)
 - [Podman](./PODMAN.md)
 - [References](./REFERENCES.md)
 - [Requirements](./REQUIREMENTS.md)
